@@ -41,8 +41,6 @@ Frontend dasturchi, frontend dasturlash bo'yicha o'qituvchi.
 </p>
 
 ## GitHub statistikasi
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=frontendtester&show_icons=true&locale=en&layout=compact" alt="frontendtester" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=otabekvaliboyev&show_icons=true&locale=en&layout=compact" alt="otabekvaliboyev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=frontendtester&show_icons=true&locale=en" alt="frontendtester" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frontendtester&" alt="frontendtester" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=otabekvaliboyev&show_icons=true&locale=en" alt="otabekvaliboyev" /></p>
