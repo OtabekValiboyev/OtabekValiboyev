@@ -1,8 +1,8 @@
-# Muhammadjavohir Sur'atov
+# Valiboyev Otabek
 
 Frontend dasturchi, frontend dasturlash bo'yicha o'qituvchi.
 
-[💼 Portfolio](https://frontendtester.uz) | [💬 Telegram](https://t.me/Muhammadjavohirbek) | 📧 frontendtester@yandex.ru
+[💬 Telegram](https://t.me/Valiboyev) | 📧 valiboyevo@gmali.com
 
 
 ## Texnologiyalar
@@ -25,8 +25,8 @@ Frontend dasturchi, frontend dasturlash bo'yicha o'qituvchi.
 
 | Preview | Ta'rif |
 |---|---|
-| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/fhzpdnabrek50hvhftnl.jpg" alt="Ecommerce product page preview" width="250"/><br>[Maket manbasi](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6) | **Ecommerce product page** <br>Onlayn do'konning mahsulot haqida ma'lumot sahifasi <br><br> <a href="https://github.com/frontendtester/ecommerce-product-page/">🧾 Repo</a> - <a href="https://mjb-ecommerce-product-page.netlify.app/" target="_blank">🌐 Netlify</a> - ⌚ 4 soat 45 daqiqa<br><br> **O'ziga xos jihatlari:** Savatchada mahsulot bor-yo'qligiga moslangan dropdown menyu, rasmlar galereyasi, lightbox |
-| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/o4iyywkwjc31epcmsmyo.jpg" alt="Easybank preview" width="250"/><br>[Maket manbasi](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN) | **Easybank landing page** <br>Onlayn banking uchun mobil ilovaning promo sahifasi <br><br> <a href="https://github.com/frontendtester/easybank">🧾 Repo</a> - <a href="https://mjb-easybank.netlify.app/" target="_blank">🌐 Netlify</a> - ⌚ 2 soat<br><br> **O'ziga xos jihatlari:** Hero qismidagi rasmlar joylashuvi |
+| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/fhzpdnabrek50hvhftnl.jpg" alt="Ecommerce product page preview" width="250"/><br>[Maket manbasi](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6) | **Ecommerce product page** <br>Onlayn do'konning mahsulot haqida ma'lumot sahifasi <br><br> <a href="https://github.com/OtabekValiboyev/E-commerce-product-page/">🧾 Repo</a> - <a href="https://otabekdev-ecommerce-product-page.netlify.app" target="_blank">🌐 Netlify</a> - ⌚ 4 soat 45 daqiqa<br><br> **O'ziga xos jihatlari:** Savatchada mahsulot bor-yo'qligiga moslangan dropdown menyu, rasmlar galereyasi, lightbox |
+| <img src="https://res.cloudinary.com/dz209s6jk/image/upload/q_auto,w_700/Challenges/o4iyywkwjc31epcmsmyo.jpg" alt="Easybank preview" width="250"/><br>[Maket manbasi](https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN) | **Easybank landing page** <br>Onlayn banking uchun mobil ilovaning promo sahifasi <br><br> <a href="https://github.com/OtabekValiboyev/EasyBank">🧾 Repo</a> - <a href="https://otabekdev-easybank.netlify.app" target="_blank">🌐 Netlify</a> - ⌚ 2 soat<br><br> **O'ziga xos jihatlari:** Hero qismidagi rasmlar joylashuvi |
 
 **<a href="https://frontendtester.uz" target="_blank">💼 Barcha loyihalar</a>**
 
